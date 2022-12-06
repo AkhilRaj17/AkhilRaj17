@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkhilRaj17
-- 👀 I’m interested in Web Development and Open Source Contribution.
+- 👀 I’m interested in Web Development and Open Source Enthusiastic.
 - 🌱 I’m currently learning Javascript ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
